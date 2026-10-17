@@ -1,0 +1,8 @@
+{
+  "name": "FireScope Final",
+  "description": "FireScope — Multi-Satellite Fire Observation \u0026 Triage Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
